@@ -1,5 +1,5 @@
 ##Project 6 - Feed Reader Testing
-The live version is here: http://victoria-front-enddev.github.io/Udacity-Project-6/
+The live version is here: http://victoria-dev.github.io/Udacity-Project-6/
 The test will run automatically after loading the page
 The following Feed Reader features are tested:
 
